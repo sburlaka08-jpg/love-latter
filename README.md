@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8" />
-  <title>Лист любімій піське</title>
+  <title>Лист любімій піське бебе</title>
   <style>
     body {
       margin: 0;
